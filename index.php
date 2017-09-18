@@ -51,13 +51,13 @@
                         </ol>
 
                         <!-- Wrapper for slides -->
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <img class="img-responsive img-full" src="img/plank01.jpg" alt="">
-                            </div>
-                            <div class="item">
+                           <div class="carousel-inner">
+                        <div class="item active">
+                     <img class="img-responsive img-full" src="img/plank01.jpg" alt="">
+                </div>
+            <div class="item">
                                 <img class="img-responsive img-full" src="img/plank02.jpg" alt="">
-                            </div>
+        </div>
                             <div class="item">
                                 <img class="img-responsive img-full" src="img/plank03.jpg" alt="">
                             </div>
@@ -119,7 +119,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Your Website 2017</p>
+                    <p>Designed By Dave Hinds <br> Copyright &copy; www.abolish.com 2017</p>3
                 </div>
             </div>
         </div>
